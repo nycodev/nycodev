@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nycodev - Nycolas Borowski
-- 🌱 I’m currently learning and practicing Node.js with JS and Typescript and backend overall knowledge
+- 🌱 I’m currently learning and practicing Node.js with JS and Typescript, Watson assistant and backend overall knowledge
 - 📫 How to reach me - https://www.linkedin.com/in/nycolas-borowski/
 
 <!---
